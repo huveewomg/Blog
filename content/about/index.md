@@ -38,7 +38,7 @@ Earphone : Audio Technica (I forgot the model) , Moondrop Quarks
 <a href="https:/twitter.com/">Twitter</a>
 </p>
 <p>
-<a href="https:/youtube.com">Youtube</a>
+<a href="https://www.youtube.com/channel/UCYv4fA-tr1fq7uwJYKe9zmg">Youtube</a>
 </p>
 <p>
 <a href="https://github.com/huveewomg">Github</a>
