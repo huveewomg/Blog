@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HuveeWong Blog</title>
-    <link>https://huveewomg.github.io/site/posts/</link>
+    <link>https://huveewomg.github.io/blog/posts/</link>
     <description>Recent content in Posts on HuveeWong Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 25 May 2022 20:43:49 +0800</lastBuildDate>
     
-	<atom:link href="https://huveewomg.github.io/site/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://huveewomg.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>Struggle</title>
-      <link>https://huveewomg.github.io/site/struggle/</link>
+      <link>https://huveewomg.github.io/blog/struggle/</link>
       <pubDate>Wed, 25 May 2022 20:43:49 +0800</pubDate>
       
-      <guid>https://huveewomg.github.io/site/struggle/</guid>
+      <guid>https://huveewomg.github.io/blog/struggle/</guid>
       <description>&lt;p&gt;
 If you&#39;re reading this article there is a good chance I successfully deploy this site on github pages without using alternative method such as netlify or anything similar.
 &lt;/p&gt;</description>
@@ -27,10 +27,10 @@ If you&#39;re reading this article there is a good chance I successfully deploy 
     
     <item>
       <title>Why I Made This Site</title>
-      <link>https://huveewomg.github.io/site/why-i-made-this-site/</link>
+      <link>https://huveewomg.github.io/blog/why-i-made-this-site/</link>
       <pubDate>Tue, 24 May 2022 22:08:27 +0800</pubDate>
       
-      <guid>https://huveewomg.github.io/site/why-i-made-this-site/</guid>
+      <guid>https://huveewomg.github.io/blog/why-i-made-this-site/</guid>
       <description>&lt;h1&gt; Here Is Why &lt;/h1&gt;
 &lt;p&gt;
 During the journey of learning language I met a nice person who is a web devs and he inspired me to try out something new. 
