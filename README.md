@@ -1,1 +1,1 @@
-Replace docs with files from public when do : hugo -D 
+Update content and thats it 
