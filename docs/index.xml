@@ -6,20 +6,42 @@
     <description>Recent content on HuveeWong Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 May 2022 10:24:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 20:43:49 +0800</lastBuildDate>
     
 	<atom:link href="https://huveewomg.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>First Post</title>
-      <link>https://huveewomg.github.io/site/first-post/</link>
-      <pubDate>Mon, 30 May 2022 10:24:29 +0800</pubDate>
+      <title>Struggle</title>
+      <link>https://huveewomg.github.io/site/struggle/</link>
+      <pubDate>Wed, 25 May 2022 20:43:49 +0800</pubDate>
       
-      <guid>https://huveewomg.github.io/site/first-post/</guid>
-      <description></description>
+      <guid>https://huveewomg.github.io/site/struggle/</guid>
+      <description>&lt;p&gt;
+If you&#39;re reading this article there is a good chance I successfully deploy this site on github pages without using alternative method such as netlify or anything similar.
+&lt;/p&gt;</description>
     </item>
+    
+    
+    
+    <item>
+      <title>Why I Made This Site</title>
+      <link>https://huveewomg.github.io/site/why-i-made-this-site/</link>
+      <pubDate>Tue, 24 May 2022 22:08:27 +0800</pubDate>
+      
+      <guid>https://huveewomg.github.io/site/why-i-made-this-site/</guid>
+      <description>&lt;h1&gt; Here Is Why &lt;/h1&gt;
+&lt;p&gt;
+During the journey of learning language I met a nice person who is a web devs and he inspired me to try out something new. 
+&lt;p&gt;Making a website has always been one of them. I spent hours a year ago to learn the basic of markup languages yet didnt make anything with it. I procastinated a lot even though I have all the time in the word at the moment. Yesterday, I challenged myself to sit down and spend a day and do it and this is the end result.&lt;/p&gt;
+&lt;p&gt;Frankly speaking I&amp;rsquo;m quite proud of how things turns out.
+Despite the fact I forgot most of the syntax but is painless to get back to them. Thank you my friend !&lt;/p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    
     
     
   </channel>
