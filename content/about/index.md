@@ -4,7 +4,7 @@ menu:
   main:
     weight: 20
 ---
-<h1> Current Status: Waiting for my results to enroll university </h1>
+<h1> Current Status: Got My results now waiting to take my driving license  </h1>
 
 ----
 <h2> What I do daily: </h2>
