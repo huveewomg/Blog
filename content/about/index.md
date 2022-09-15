@@ -12,7 +12,7 @@ menu:
 
 - Read Novel 
 
-- Learn a something new about code/code
+- Learn something new about code 
 
 - プロセカ
 
