@@ -30,7 +30,7 @@ Laptop:
 Monitor : Philips 242E1GSJ <br> 
 Mouse : Coolermaster MM711 <br>
 Keyboard : MKA-3C(201X) Red/Brown/Blue switches mix <br>
-Earphone : Audio Technica (I forgot the model) , Moondrop Quarks 
+Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
 
 ---
 <h2> SNS </h2>
