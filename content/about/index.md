@@ -4,7 +4,7 @@ menu:
   main:
     weight: 20
 ---
-<h1> Current Status: I enrolled for university ! </h1>
+<h1> Current Status: Diploma Student Year 1 Semester 3  </h1>
 
 ----
 <h2> What I do daily: </h2>
@@ -12,11 +12,10 @@ menu:
 
 - Read Novel 
 
-- Learn something new about code 
+- Practice Instruments
 
-- プロセカ
+- Rhythm games
 
-- Procastinate
 </p>
 ---- 
 <h2> My Setup </h2> 
@@ -31,6 +30,15 @@ Monitor : Philips 242E1GSJ <br>
 Mouse : Coolermaster MM711 <br>
 Keyboard : MKA-3C(201X) Red/Brown/Blue switches mix <br>
 Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
+----
+
+<h2> Plans Before Graduate </h2>
+<p>
+- Language Proficiency Test
+
+- DTM
+
+</p>
 
 ---
 <h2> SNS </h2>
