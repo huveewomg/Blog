@@ -4,7 +4,7 @@ menu:
   main:
     weight: 20
 ---
-<h1> Current Status: Diploma Student Year 1 Semester 3  </h1>
+<h1> Current Status: Diploma Student Year 1 Semester 3 </h1>
 
 ----
 <h2> What I do daily: </h2>
@@ -17,7 +17,8 @@ menu:
 - Rhythm games
 
 </p>
----- 
+<br>
+
 <h2> My Setup </h2> 
 Laptop: 
  <ul>
@@ -30,8 +31,8 @@ Monitor : Philips 242E1GSJ <br>
 Mouse : Coolermaster MM711 <br>
 Keyboard : MKA-3C(201X) Red/Brown/Blue switches mix <br>
 Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
-----
 
+<br>
 <h2> Plans Before Graduate </h2>
 <p>
 - Language Proficiency Test
@@ -39,8 +40,8 @@ Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
 - DTM
 
 </p>
+<br>
 
----
 <h2> SNS </h2>
 <p>
 <a href="https:/twitter.com/">Twitter</a>
