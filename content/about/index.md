@@ -1,10 +1,10 @@
 ---
-title: "About"
+title: "About Me"
 menu:
   main:
     weight: 20
 ---
-<h1> Current Status: Diploma Student Year 1 Semester 3 </h1>
+<h1> Current: Diploma Student Year 1 Semester 3 </h1>
 
 ----
 <h2> What I do daily: </h2>
@@ -17,7 +17,6 @@ menu:
 - Rhythm games
 
 </p>
-<br>
 
 <h2> My Setup </h2> 
 Laptop: 
@@ -35,12 +34,12 @@ Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
 <br>
 <h2> Plans Before Graduate </h2>
 <p>
+
 - Language Proficiency Test
 
 - DTM
 
 </p>
-<br>
 
 <h2> SNS </h2>
 <p>
