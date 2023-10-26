@@ -4,7 +4,7 @@ menu:
   main:
     weight: 20
 ---
-<h1> Current: Diploma Student Year 1 Semester 3 </h1>
+<h1> Current: Diploma Student Year 2 Semester 1 </h1>
 
 ----
 <h2> What I do daily: </h2>
@@ -14,7 +14,7 @@ menu:
 
 - Practice Instruments
 
-- Rhythm games
+- Game
 
 </p>
 
@@ -27,15 +27,16 @@ Laptop:
   <li>Windows 10 Pro 64</li>
 </ul> 
 Monitor : Philips 242E1GSJ <br> 
-Mouse : Coolermaster MM711 <br>
+Mouse : Coolermaster MM712 (White) <br>
 Keyboard : MKA-3C(201X) Red/Brown/Blue switches mix <br>
 Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
+Wireless Earphone: Moondrop Space Travel (White)
 
 <br>
-<h2> Plans Before Graduate </h2>
+<h2> Plans </h2>
 <p>
 
-- Language Proficiency Test
+- Certificate Test
 
 - DTM
 
@@ -50,5 +51,8 @@ Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
 </p>
 <p>
 <a href="https://github.com/huveewomg">Github</a>
+</p>
+<p>
+Discord: huveewomg
 </p>
 
