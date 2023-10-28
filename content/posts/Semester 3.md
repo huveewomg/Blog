@@ -12,4 +12,5 @@ It was a quick 4 months a lot happened. Working hard and also gaming hard this s
 
 See you in 4 months. Hopefully I done something by then.
 
+Update (28/10): Do expect for a remake for this entire website. I'm thinking to integrate some API like LastFM on here if I have the time. 
 </p>
