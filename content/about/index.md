@@ -4,7 +4,7 @@ menu:
   main:
     weight: 20
 ---
-<h1> Current: Diploma Student Year 2 Semester 1 </h1>
+<h1> Current: Diploma Student Last Semester </h1>
 
 ----
 <h2> What I do daily: </h2>
@@ -28,8 +28,8 @@ Laptop:
 </ul> 
 Monitor : Philips 242E1GSJ <br> 
 Mouse : Coolermaster MM712 (White) <br>
-Keyboard : MKA-3C(201X) Red/Brown/Blue switches mix <br>
-Earphone : Audio Technica (I forgot the model) , Moondrop Quarks , Moondrop Chu
+Keyboard : Tecware Phantom+ TKL <br>
+Earphone : Audio Technica (I forgot the model) , Moondrop Quarks (Dead) , Moondrop Chu
 Wireless Earphone: Moondrop Space Travel (White)
 
 <br>
